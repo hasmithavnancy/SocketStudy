@@ -104,9 +104,13 @@ conn.close()
 server_socket.close()
 ~~~
 ## OUTPUT:
+
 CLIENT:
+
 ![image](https://github.com/user-attachments/assets/8b15ecee-40f4-46e1-aad7-22ba11a4cb46)
+
 SERVER:
+
 ![image](https://github.com/user-attachments/assets/16959141-8dcc-43ea-bc69-7cc66b286f4b)
 
 
